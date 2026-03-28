@@ -1,6 +1,6 @@
 Hello!
 
-This is my first large dataset project, and it has greatly improved my life in Taiwan—please be kind!
+This is my first large dataset project, and it has greatly improved my life in Taiwan. Please be kind!
 
 As a car-brain, I bought a sedan/SUV shortly after arriving, unaware of the poor infrastructure for larger vehicles. Navigation often routes through congested areas packed with mopeds, where drivers bear full responsibility for incidents. Taiwan has East Asia’s highest vehicle incident rate, making driving risky and potentially costly.
 
