@@ -1,4 +1,4 @@
-# Taiwan Avoid Moped Routes
+# Taiwan 'Avoid Moped' Routes
 
 This project uses Taiwan’s Department of Transportation data on vehicle frequency, road smoothness, and width to generate safer, more comfortable driving routes for larger vehicles, avoiding congested moped-heavy, narrow, and impassable areas that navigational softwares (Google Maps, Apple Maps, Waze) fail to recognize.
 
