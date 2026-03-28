@@ -8,7 +8,9 @@ where drivers bear full responsibility for incidents. Taiwan has East Asia’s h
 
 Many routes provided by navigational systems (Waze/Google Maps/Apple Maps) are also impassable for cars.
 
-I built my own navigation system using Taiwan’s Department of Transportation data on vehicle frequency, road smoothness, and width to make driving pleasant again.
+This project uses Taiwan’s Department of Transportation data on vehicle frequency, road smoothness, and width to generate safer, more comfortable driving routes for larger vehicles, avoiding congested moped-heavy and impassable areas.
 
 
-Please downloaded the file hotosm_twn_roads_lines_shp and add it to the same folder as Taiwan_AvoidMoped.py (or a new Data folder) from https://data.humdata.org/dataset/hotosm_twn_roads. 
+Setup
+
+Download hotosm_twn_roads_lines_shp from https://data.humdata.org/dataset/hotosm_twn_roads and place it in the same folder as Taiwan_AvoidMoped.py (or a Data subfolder).
